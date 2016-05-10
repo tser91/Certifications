@@ -1,2 +1,5 @@
-# Android-Developer-Certified
-Certification of Udacity for the Android Developer Nanodegree
+# Certifications
+I, Sergio Saborío Taylor, am certified as:
+
+- Android Developer Nanodegree
+- Tech Entrepreneur Nanodegree
